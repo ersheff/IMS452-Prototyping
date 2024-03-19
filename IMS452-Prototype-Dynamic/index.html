@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- link for Pico CSS framework -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" />
+    <link rel="stylesheet" href="style.css">
+    <!-- includes socket.io client code -->
+    <script src="/socket.io/socket.io.js" defer></script>
+    <script src="script.js" defer></script>
+    <title>IMS452 - Prototype - Static</title>
+</head>
+
+<!-- set to use the pico css light mode -->
+<body>
+
+    <h1>Prototype</h1>
+
+    <button id="like-button">Like</button>
+    <p id="like-output">0</p>
+
+    <input type="text" id="chat-input" placeholder="Enter chat message">
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+body {
+    padding: 1rem;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.spacer {
+    height: 4rem;
+}
+
+.invisible {
+    display: none;
+}
+
+.image-container {
+    max-width: 800px;
+}
