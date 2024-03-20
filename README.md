@@ -1,6 +1,6 @@
 # IMS452-Prototyping
 
-This repository includes all of the files for the projects that were intrioduced in the IMS452 Prototyping talk.  
+This repository includes all of the files for the projects that were introduced in the IMS452 Prototyping talk.  
 
 CodePen example available [here](https://codepen.io/ersheff/pen/OJGWpBm).  
 
